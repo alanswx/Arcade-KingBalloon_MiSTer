@@ -1,4 +1,4 @@
-set_global_assignment -name SYSTEMVERILOG_FILE Arcade-KingBaloon.sv
+set_global_assignment -name SYSTEMVERILOG_FILE Arcade-KingBalloon.sv
 set_global_assignment -name QIP_FILE sys/sys.qip
 set_global_assignment -name VHDL_FILE rtl/kingballon.vhd
 set_global_assignment -name VHDL_FILE rtl/mc_video.vhd
